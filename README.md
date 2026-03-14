@@ -35,21 +35,15 @@
     <tr>
       <td width="50%" align="center" valign="top" style="border: none; padding-bottom: 30px;">
         <h3 align="center">🌊 Frontend</h3>
-        <!-- Icons arranged with shadows -->
+        <!-- Icons returned to native API grouping since GitHub strips inline styling -->
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html" width="48" style="box-shadow: 0px 0px 15px rgba(227, 79, 38, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=css" width="48" style="box-shadow: 0px 0px 15px rgba(21, 114, 182, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=js" width="48" style="box-shadow: 0px 0px 15px rgba(247, 223, 30, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=react" width="48" style="box-shadow: 0px 0px 15px rgba(97, 218, 251, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" style="box-shadow: 0px 0px 15px rgba(56, 178, 172, 0.6); border-radius: 12px; margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=3" alt="Frontend" />
         </a>
       </td>
       <td width="50%" align="center" valign="top" style="border: none; padding-bottom: 30px;">
         <h3 align="center">⚓ Backend & Database</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" style="box-shadow: 0px 0px 15px rgba(51, 153, 51, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=express" width="48" style="box-shadow: 0px 0px 15px rgba(128, 128, 128, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" style="box-shadow: 0px 0px 15px rgba(71, 162, 72, 0.6); border-radius: 12px; margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend" />
         </a>
       </td>
     </tr>
@@ -57,19 +51,13 @@
       <td width="50%" align="center" valign="top" style="border: none;">
         <h3 align="center">🧭 Languages</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java" width="48" style="box-shadow: 0px 0px 15px rgba(237, 139, 0, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=js" width="48" style="box-shadow: 0px 0px 15px rgba(247, 223, 30, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=ts" width="48" style="box-shadow: 0px 0px 15px rgba(49, 120, 198, 0.6); border-radius: 12px; margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=java,js,ts&perline=3" alt="Languages" />
         </a>
       </td>
       <td width="50%" align="center" valign="top" style="border: none;">
         <h3 align="center">🗺️ Tools & 3D</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git" width="48" style="box-shadow: 0px 0px 15px rgba(240, 80, 50, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=github" width="48" style="box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=postman" width="48" style="box-shadow: 0px 0px 15px rgba(255, 108, 55, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=vscode" width="48" style="box-shadow: 0px 0px 15px rgba(0, 122, 204, 0.6); border-radius: 12px; margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=blender" width="48" style="box-shadow: 0px 0px 15px rgba(234, 118, 0, 0.6); border-radius: 12px; margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,blender&perline=3" alt="Tools" />
         </a>
       </td>
     </tr>
