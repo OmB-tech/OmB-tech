@@ -25,7 +25,6 @@
 - 🎨 **Learning Blender** for basic 3D work and creative assets.
 - 🌊 **Open-source enthusiast** with multiple active projects on GitHub.
 <br/>
----
 
 <div align="center">
   <h2> 🛠️ Tech Stack </h2>
