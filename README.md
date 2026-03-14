@@ -17,7 +17,7 @@
 <div align="center">
   <h2> 👤 About Me </h2>
 </div>
-<!-- //commenttt -->
+
 - 🗺️ **Engineering student** building scalable web applications.
 - ⚓ **MERN stack developer** crafting interactive user interfaces.
 - 🧭 **Currently practicing Java DSA** to strengthen problem-solving logic.
@@ -81,33 +81,24 @@
   <p><i>Fetching live highlights from my repository</i></p>
   <br>
 
-  <!-- Theme Grid -->
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <a href="https://github.com/OmB-tech/TwitterClone">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=TwitterClone&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="TwitterClone" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <a href="https://github.com/OmB-tech/Akatsuki-Project-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=Akatsuki-Project-Hub&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="Akatsuki-Project-Hub" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <a href="https://github.com/OmB-tech/StudyGini-backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=StudyGini-backend&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="StudyGini" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <a href="https://github.com/OmB-tech/College-Predictor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=College-Predictor&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="College-Predictor" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- True Markdown Responsive Borderless Flex Grid -->
+  <p align="center">
+    <a href="https://github.com/OmB-tech/TwitterClone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=TwitterClone&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="TwitterClone" width="48%" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/OmB-tech/Akatsuki-Project-Hub">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=Akatsuki-Project-Hub&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="Akatsuki-Project-Hub" width="48%" />
+    </a>
+    <br><br>
+    <a href="https://github.com/OmB-tech/StudyGini-backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=StudyGini-backend&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="StudyGini" width="48%" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/OmB-tech/College-Predictor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmB-tech&repo=College-Predictor&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="College-Predictor" width="48%" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -116,20 +107,12 @@
   <h2> 📊 GitHub Analytics </h2>
   <br />
 
-  <!-- Theme Grid -->
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=OmB-tech&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmB-tech&stroke=0000&background=0D1117&ring=C53030&fire=C53030&currStreakNum=8B949E&currStreakLabel=D4AF37&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&border=21262D&border_radius=10" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmB-tech&layout=compact&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="Top Languages" width="60%" />
-      </td>
-    </tr>
-  </table>
+  <!-- True Markdown Responsive Borderless Flex Grid -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=OmB-tech&show_icons=true&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="GitHub Stats" width="48%" />
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmB-tech&stroke=0000&background=0D1117&ring=C53030&fire=C53030&currStreakNum=8B949E&currStreakLabel=D4AF37&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&border=21262D&border_radius=10" alt="GitHub Streak" width="48%" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmB-tech&layout=compact&bg_color=0D1117&title_color=D4AF37&text_color=8B949E&icon_color=C53030&border_color=21262D&border_radius=10" alt="Top Languages" width="60%" />
+  </p>
 </div>
