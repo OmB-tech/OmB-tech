@@ -1,0 +1,20 @@
+{
+  "includesPrivate": true,
+  "repoCount": 36,
+  "stars": 1,
+  "langs": {
+    "TypeScript": 2062611,
+    "JavaScript": 1185589,
+    "HTML": 258980,
+    "CSS": 269656,
+    "Python": 8514,
+    "Shell": 1387,
+    "Java": 54456,
+    "SCSS": 11690,
+    "Vue": 6967,
+    "Svelte": 6151
+  },
+  "contributions": 582,
+  "currentStreak": 0,
+  "longestStreak": 14
+}
